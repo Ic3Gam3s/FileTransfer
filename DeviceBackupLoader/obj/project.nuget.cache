@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "vTziEyEkyTU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\janni\\source\\repos\\DeviceBackupLoader\\DeviceBackupLoader\\DeviceBackupLoader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\janni\\.nuget\\packages\\dynamicdata\\7.9.5\\dynamicdata.7.9.5.nupkg.sha512",
+    "C:\\Users\\janni\\.nuget\\packages\\h.reactiveui.commoninteractions.core\\1.0.56\\h.reactiveui.commoninteractions.core.1.0.56.nupkg.sha512",
+    "C:\\Users\\janni\\.nuget\\packages\\reactiveui\\18.3.1\\reactiveui.18.3.1.nupkg.sha512",
+    "C:\\Users\\janni\\.nuget\\packages\\splat\\14.4.1\\splat.14.4.1.nupkg.sha512",
+    "C:\\Users\\janni\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
